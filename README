@@ -1,0 +1,19 @@
+Description
+
+This function allows you to calculate the day based on date. The formula used in the function is kim Larsson calculation formula.
+
+Usage
+
+date2day_fun(year, month, day)
+Arguments
+
+year	
+Enter the year in an int format, eg. 1989
+month	
+Enter the month in an int format, eg. 8
+day	
+Enter the day in an int format, eg. 25
+
+Examples
+
+date2day_fun(2018, 5, 28)
